@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29066683319",
+    "project_id": "chatappflutter-c291e",
+    "storage_bucket": "chatappflutter-c291e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29066683319:android:4e86ac2475230c40b43e32",
+        "android_client_info": {
+          "package_name": "co.azemavdic.chatApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29066683319-n6pfmbpbml0af1segmbh8239qj16e65d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKSdwz_8K-hjm8za4t3c-p_0L2E1amwt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29066683319-n6pfmbpbml0af1segmbh8239qj16e65d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
